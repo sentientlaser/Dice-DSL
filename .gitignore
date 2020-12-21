@@ -25,3 +25,5 @@ classes/
 .idea
 .idea_modules
 /.worksheet/
+target
+.dotty-ide*
